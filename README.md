@@ -13,13 +13,12 @@ Before getting started, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/ai-text-summarizer-app.git
+   git clone https://github.com/mohdamaan069/AI-Text-Summarizer-App.git
    ```
-   Replace `your-username` with your GitHub username.
 
 2. **Navigate to the Project Directory:**
    ```
-   cd ai-text-summarizer-app
+   cd AI-Text-Summarizer-App
    ```
 
 3. **Install Dependencies:**
